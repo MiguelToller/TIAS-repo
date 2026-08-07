@@ -1,4 +1,4 @@
-# Resumo do Trabalho de Conclusão de Curso
+# Resumo do TFG
 
 | Tópico | Detalhes |
 | :--- | :--- |
