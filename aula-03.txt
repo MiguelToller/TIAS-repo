@@ -1,0 +1,14 @@
+Processos de mineração
+- predição (classifica/categoriza)
+- previsão: (faixa temporal - estima próximo item
+- qualidade x quantidade (amostra)
+- 
+- Sckitlearning
+
+Treinamento de modelo
+- regra do negócio
+- base de dados
+- ETL: organização e limpeza de dados pré-treinamento
+  - pandas: dataframes (dados armazenados pós ETL)
+  - padronizar a estrutura de dados a ser mineradas
+- predição ou previsão
