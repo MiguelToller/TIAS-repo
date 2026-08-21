@@ -1,0 +1,22 @@
+Faixa temporal (Meses, Anos, Décadas, Semestre)
+
+Contexto:
+1° Predição ou Previsão
+2° Escolher a base de dados
+3° Aplicar ETL
+4° Definir o modelo (Benchmark)
+
+Universo x Amostra
+- Estatística (Previsão)
+  - de uma amostra, defino um universo
+- Mineração (Predição)
+  - de um universo, defino uma amostra
+
+Qual o melhor modelo?
+- Depende da quantidade de treino e testes (70% - 30%)
+
+Tipos de Modelos:
+https://github.com/alexandrezamberlan/tias/blob/main/3_predicao_previsao_codigos_exemplos/3_modelosPredicao_baseGlicose.md
+
+Normalizar:
+- Retirar os extremos
