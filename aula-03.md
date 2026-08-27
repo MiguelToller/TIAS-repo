@@ -1,5 +1,3 @@
-# Resumo de Processos de Mineração e Treinamento de Modelos
-
 ## 1. Processos de Mineração
 
 * **Predição:** Classifica e categoriza dados com base em padrões aprendidos.
