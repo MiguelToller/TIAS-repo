@@ -1,5 +1,3 @@
-# Resumo de Predição, Previsão e Modelagem de Dados
-
 ## 1. Faixa Temporal
 * Classificação temporal utilizada em análises: **Meses, Semestres, Anos, Décadas**.
 
