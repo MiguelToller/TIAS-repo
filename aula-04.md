@@ -8,14 +8,6 @@ Em problemas de Aprendizado de Máquina Supervisionado onde as variáveis predit
 
 1. [Visão Geral do Pipeline Teórico](https://www.google.com/search?q=%23-vis%C3%A3o-geral-do-pipeline-te%C3%B3rico)
 2. [Etapas Fundamentais](https://www.google.com/search?q=%23-etapas-fundamentais)
-* [Etapa 1: Tratamento e Limpeza dos Dados](https://www.google.com/search?q=%23etapa-1-tratamento-e-limpeza-dos-dados)
-* [Etapa 2: Isolamento de Features (X) e Target (y)](https://www.google.com/search?q=%23etapa-2-isolamento-de-features-x-e-target-y)
-* [Etapa 3: Divisão dos Dados e Prevenção de Contaminação](https://www.google.com/search?q=%23etapa-3-divis%C3%A3o-dos-dados-e-preven%C3%A7%C3%A3o-de-contamina%C3%A7%C3%A3o)
-* [Etapa 4: Escalonamento e Normalização de Variáveis](https://www.google.com/search?q=%23etapa-4-escalonamento-e-normaliza%C3%A7%C3%A3o-de-vari%C3%A1veis)
-* [Etapa 5: Treinamento do Modelo (Ajuste)](https://www.google.com/search?q=%23etapa-5-treinamento-do-modelo-ajuste)
-* [Etapa 6: Predição e Métricas de Avaliação](https://www.google.com/search?q=%23etapa-6-predi%C3%A7%C3%A3o-e-m%C3%A9tricas-de-avalia%C3%A7%C3%A3o)
-
-
 3. [AutoML e Validação Cruzada](https://www.google.com/search?q=%23-automl-e-valida%C3%A7%C3%A3o-cruzada)
 
 ---
