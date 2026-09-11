@@ -4,14 +4,6 @@ Em problemas de Aprendizado de Máquina Supervisionado onde as variáveis predit
 
 ---
 
-## 📋 Sumário
-
-1. [Visão Geral do Pipeline Teórico](https://www.google.com/search?q=%23-vis%C3%A3o-geral-do-pipeline-te%C3%B3rico)
-2. [Etapas Fundamentais](https://www.google.com/search?q=%23-etapas-fundamentais)
-3. [AutoML e Validação Cruzada](https://www.google.com/search?q=%23-automl-e-valida%C3%A7%C3%A3o-cruzada)
-
----
-
 ## 🔄 Visão Geral do Pipeline Teórico
 
 ```
